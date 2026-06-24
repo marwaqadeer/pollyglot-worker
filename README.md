@@ -51,3 +51,17 @@ No API keys are exposed in frontend code.
 npm install
 
 ```
+
+## Run Frontend
+
+npm run dev
+
+## Deploy Worker
+
+Wrangler deploy
+
+## Environment Variables
+
+Create a .dev.vars file:
+
+OPENROUTER_API_KEY=your_api_key_here
